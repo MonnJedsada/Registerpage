@@ -1,0 +1,84 @@
+.backtone{
+    background-color:  #1E1E1E;
+    color: rgba(240, 248, 255, 0.842);
+}
+
+/* navbar */
+.bg-dark{
+    background:  #1E1E1E;
+}
+.bg-alpha{
+    background: #1E1E1E;
+}
+
+/* Section Page-title */
+.page-title{
+    position:relative;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #fff;
+    
+    
+}
+
+/* Footer */
+.semi-footer{
+    background-color: #1E1E1E;
+    color: #fff;
+}
+.semi-footer a{
+    color: #F3BC18;
+}
+.semi-footer p{
+    color: #F3BC18;
+}
+.semi-footer h3{
+    color: #F3BC18;
+}
+.semi-footer h4{
+    color: #F3BC18;
+    border-bottom: 1px solid;
+}
+
+.endline{
+    background: #fff;
+    color: #1E1E1E;
+    font-size: 1rem;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+/* picblog */
+    .img-thumbnail{
+        width: 200px;
+        height: 100px;
+    }
+
+
+.txtthank{
+    color: #3d3d3d;
+}
+
+/* Section On to Top*/
+
+.to-top {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    width: 40px;
+    height: 40px;
+    background: #F3BC18;
+    color: #fff;
+    z-index: 9999;
+    border-radius: 50%;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.to-top:hover {
+    color: #fff;
+    background: #927212;
+}
